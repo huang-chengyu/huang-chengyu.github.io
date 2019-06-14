@@ -1,0 +1,1 @@
+var myData={designer:{name:'黄澄郁作品集',phone:'13138701408',tag:["#爱设计  #爱生活  #工作经验2年"],bg:'#298af5'},gallery:[{src:"myworks/banner  7.jpg",w:1920,h:600},{src:"myworks/banner 2.jpg",w:1920,h:600},{src:"myworks/banner 11.jpg",w:1920,h:600},]}
